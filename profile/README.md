@@ -8,7 +8,9 @@
 
 The Codex is a living constitutional architecture designed to work across different scales of human organization—from planetary civilization to local communities.
 
-Currently contains:
+---
+
+## Currently contains:
 
 ### The Covenant
 A civilization-scale constitution establishing dignity, commons stewardship, and participatory democracy as foundations for planetary governance.
@@ -20,7 +22,6 @@ A civilization-scale constitution establishing dignity, commons stewardship, and
   - Post-capitalist economics
   - Non-hierarchical federation
   - Comprehensive transition framework
-- **Status**: Complete
 
 ### Documentation
 - **Model Legislation**: Template laws for implementing Covenant principles
@@ -51,10 +52,10 @@ It's written for a world where:
 ## How to Use This
 
 ### Read
-Start with the [Preamble](../../Covenant/Part%2000%20–%20Preamble.md). It establishes scope and principles. Then explore the 10 Parts in order, or jump to what interests you.
+Start with the [Invocation of Sovereign Will](https://github.com/omnideaco/covenant/blob/main/Invocation%20of%20Sovereign%20Will.md). Then explore the Preamble and 10 Parts in order, or jump to what interests you.
 
 ### Study
-The [Technical Appendices](../../Documentation/) provide implementation details. Model Legislation shows how Covenant principles translate into enforceable law.
+The [Technical Appendices](https://github.com/omnideaco/Documentation/tree/main/Appendices) provide implementation details. [Model Legislation](https://github.com/omnideaco/Documentation/tree/main/Legislation) shows how Covenant principles translate into enforceable law.
 
 ### Adapt
 The Covenant is designed to be enacted voluntarily—by communities, regions, or individuals. You don't need permission. You need commitment.
@@ -120,8 +121,6 @@ Where you adapt, extend, or build upon the Codex:
 - Maintain the integrity of Core principles
 - Make your changes transparent and traceable
 - Consider contributing clarifications back to source
-
-**Full license details**: See [LICENSE.md](../../Covenant/LICENSE.md)
 
 ---
 
